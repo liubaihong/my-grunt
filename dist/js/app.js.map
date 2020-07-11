@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/js/app.js"],"names":["a","console","log"],"mappings":";;;;;;;;;;;;;;AAAA,IAAMA,CAAC,GAAG,WAACA,EAAD,EAAO;AAAA;;AACb,cAAAC,OAAO,EAACC,GAAR,oCAAeF,EAAf;AACH,CAFD;;AAGAA,CAAC,CAAC,CAAC,CAAD,EAAG,CAAH,EAAK,CAAL,CAAD,CAAD","sourcesContent":["const a = (a) => {\r\n    console.log(...a)\r\n}\r\na([2,3,4])"],"file":"app.js"}
